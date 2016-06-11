@@ -52,22 +52,22 @@
 					<div class="row 150%">
 						<div class="6u 12u$(medium)">
 							<ul class="major-icons">
-								<li><span class="icon style1 major fa-code"></span></li>
+								<!--<li><span class="icon style1 major fa-code"></span></li>-->
 								<li><a href="http://github.com/ggjason" style="border-bottom: none;"><span class="icon style2 major fa-github"></span></a></li>
-								<li><a href="album/index.html" style="border-bottom: none;"><span class="icon style3 major fa-camera-retro"></span></a></li>
-								<li><a href="http://www.facebook.com/stshowtime" style="border-bottom: none;"><span class="icon style4 major fa-facebook-square"></span></a></li>
+								
 								<li><a href="https://www.linkedin.com/in/軒竹-吳-209b209a?" style="border-bottom: none;"><span class="icon style5 major fa-linkedin-square"></span></a></li>
-								<li><span class="icon style6 major fa-calendar"></span></li>
+								<!--<li><span class="icon style6 major fa-calendar"></span></li>-->
 							</ul>
 						</div>
 						<div class="6u$ 12u$(medium)">
 							<header class="major">
-								<h2>Lorem ipsum dolor adipiscing<br />
-								amet dolor consequat</h2>
+								<h2>專案與研究</h2>
 							</header>
-							<p>Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non. Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan adipiscing ipsum.</p>
-							<p>Blandit faucibus proin. Ac aliquam integer adipiscing enim non praesent vis commodo nunc phasellus cubilia ac risus accumsan. Accumsan blandit. Lobortis phasellus non lobortis dit varius mi varius accumsan lobortis. Blandit ante aliquam lacinia lorem lobortis semper morbi col faucibus vitae integer placerat accumsan orci eu mi odio tempus adipiscing adipiscing adipiscing curae consequat feugiat etiam dolore.</p>
-							<p>Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non. Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan adipiscing ipsum.</p>
+							<p>
+								因為接觸了台大開源社，開始了解開源的意義，同時加入了InfoPlat，希望為校園資訊開放多盡一份心力。
+							</p>
+							<p>
+								身為土木工程師（Civil Engineer），我們存在的責任就是要解決人們在生活中所遭遇的大小問題，只是我們用不同的工具來達到這個目的，而我選擇了利用資訊來為人類謀取更大的福祉。<br>過去曾經參與 <a href="www.bgbim.tw">Blue Green BIM</a> 團隊，致力於將Blue Green Desingn的概念導入到土木工程當中的BIM流程當中。<br>現在的我正在試圖利用資訊來協助人們處理三維空間中可能發生的衝突與解決方案。	</p>
 						</div>
 					</div>
 				</div>
@@ -108,23 +108,24 @@
 					</div>
 				</div>
 			</section>
-
+			<li><a href="album/index.html" style="border-bottom: none;"><span class="icon style3 major fa-camera-retro"></span></a></li>
+			<li><a href="http://www.facebook.com/stshowtime" style="border-bottom: none;"><span class="icon style4 major fa-facebook-square"></span></a></li>
 		<!-- Four -->
 			<section id="four" class="main style2 special">
 				<div class="container">
 					<header class="major">
-						<h2>Ipsum feugiat consequat?</h2>
+						<h2>Contact Me</h2>
 					</header>
 					<p>Sed lacus nascetur ac ante amet sapien.</p>
 					<ul class="actions uniform">
-						<li><a href="#" class="button special">Sign Up</a></li>
-						<li><a href="#" class="button">Learn More</a></li>
+						<li><a href="http://m.me/ggjason.tw" class="button special">Messenger</a></li>
+						<li><a href="mailto: ggjason@ggjason.tw" class="button">Email</a></li>
 					</ul>
 				</div>
 			</section>
 
 		<!-- Five -->
-		<!--
+
 			<section id="five" class="main style1">
 				<div class="container">
 					<header class="major special">
@@ -441,7 +442,6 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 				</div>
 			</section>
-		-->
 
 		<!-- Footer -->
 			<section id="footer">
@@ -453,7 +453,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					<li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					<li>&copy; GGJason</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 				</ul>
 			</section>
 
