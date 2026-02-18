@@ -1,5 +1,29 @@
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ggjason)
+# Hi there, I'm GGJason 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GGJason&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## Software Developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGJason&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm a software developer passionate about building robust applications and continuously learning new technologies.
+
+### 🛠️ Tech Stack
+
+- **Primary Languages**: C#, .NET Core, .NET Framework
+- **Secondary**: Python
+- **Learning**: React
+- **Cloud**: Azure
+
+### 🎯 Currently
+
+- Preparing for a new Azure certification
+
+### 💻 Interests
+
+- Hiking 🏔️
+- Photography 📸
+- Coding 💻
+
+### 📧 Get in Touch
+
+- Email: ggjason.tw@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ggjason/
+
+
